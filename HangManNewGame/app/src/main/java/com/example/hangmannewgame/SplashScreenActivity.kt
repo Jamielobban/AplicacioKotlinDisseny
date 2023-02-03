@@ -28,6 +28,9 @@ class SplashScreenActivity : AppCompatActivity() {
         intentS.putExtra("audioIndex", "0")
         startService(intentS)
 
+
+        val intent2 = Intent(this@SplashScreenActivity, MyFirebaseMessagingService::class.java)
+        startService(intent2)
         //startService(this@SplashScreenActivity,MyFirebaseMessagingService::class.java);
 
         //binding.welcomeMessage.text = "Hello"
