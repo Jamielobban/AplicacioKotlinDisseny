@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">HangManNewGame</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="play">PLAY</string>
+    <string name="used_letters">USED LETTERS</string>
+    <string name="timer">TIME LEFT:</string>
+    <string name="guess">GUESS</string>
+    <string name="trybutton">TRY</string>
+    <string name="pausebutton">PAUSE</string>
+    <string name="pausetext">PAUSE</string>
+    <string name="playerguess">player</string>
+    <string name="scoretext">SCORE</string>
+    <string name="scorebutton">SCORE</string>
+    <string name="random">random</string>
+    <string name="content1">content1</string>
+    <string name="content2">content2</string>
+    <string name="content3">content3</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="back">back</string>
+    <string name="background">background</string>
+    <string name="settings">settings</string>
+    <string name="ranking">ranking</string>
+    <string name="savechanges">save changes</string>
+    <string name="save">save</string>
+    <string name="registertitle">register</string>
+    <string name="message">message</string>
+    <string name="music1">music1</string>
+    <string name="music2">music2</string>
+    <string name="notis1">notis1</string>
+    <string name="notis2">notis2</string>
+    <string name="sound">sound</string>
+    <string name="notis">notifications</string>
+    <string name="logout">logout</string>
+    <string name="password">password ( > 6 char )</string>
+    <string name="email">example@mail.com</string>
+    <string name="name">name</string>
+    <string name="title">the hangman</string>
+    <string name="highscore">highscore</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="guessWords">
+        <item>Transistor</item>
+        <item>Oligarchy</item>
+        <item>Transylvania</item>
+        <item>Ostracism</item>
+        <item>Feudalism</item>
+        <item>Kotlin</item>
+        <item>Happiness</item>
+        <item>Sadness</item>
+        <item>Monster</item>
+        <item>Energy</item>
+        <item>Drink</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+    </string-array>
+</resources>
