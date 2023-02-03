@@ -7,6 +7,7 @@ import android.os.Handler
 import android.os.Looper
 import com.example.hangmannewgame.databinding.ActivitySplashScreenBinding
 import com.example.hangmannewgame.services.BackgroundSoundService
+import com.example.hangmannewgame.services.MyFirebaseMessagingService
 import com.example.hangmannewgame.services.Prefs
 
 
@@ -26,6 +27,8 @@ class SplashScreenActivity : AppCompatActivity() {
         val intentS = Intent(this@SplashScreenActivity, BackgroundSoundService::class.java)
         intentS.putExtra("audioIndex", "0")
         startService(intentS)
+
+        //startService(this@SplashScreenActivity,MyFirebaseMessagingService::class.java);
 
         //binding.welcomeMessage.text = "Hello"
 

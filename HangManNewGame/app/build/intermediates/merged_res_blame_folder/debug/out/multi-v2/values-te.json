@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.hangmannewgame.app-mergeDebugResources-52:/values-te/values-te.xml",
+            "outputFile": "com.example.hangmannewgame.app-mergeDebugResources-53:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jlobb\\.gradle\\caches\\transforms-3\\d1f46ff4e1d542268509860976dbdfd0\\transformed\\play-services-basement-18.1.0\\res\\values-te\\values.xml",

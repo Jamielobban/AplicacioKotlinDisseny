@@ -1,10 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\jlobb\.gradle\caches\transforms-3\b99463d9b9be6c786fe382e60017585f\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\89c1bc485a05391d0059062aae54d849\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\57b7a79ab71d0b0fee6d77619f1094c8\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\dc9ee8ab85c09aca8391b99fc44981d2\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
@@ -16,22 +18,35 @@ MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\jlobb\.gradle\caches\t
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:17:1-73:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\99fc365afdfd077ef45e98dd4c5808a2\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:17:1-61:12
 MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\925d223041e7b8de66f5f3f376bb7cf0\transformed\play-services-ads-21.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\jlobb\.gradle\caches\transforms-3\0e0c241f61db776ebb332e5f12dc2983\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\d626a25d79fd38524305acd615926699\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a3b2e6ff17e6e52c337a632b0eb99037\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\jlobb\.gradle\caches\transforms-3\671d5f326faf41762b6720fb62d21902\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\29b62000866f06ad37edd4b93079e8e4\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\03de9e368ef871cdd5a075e11db2e35c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\553f7003e3311ca5c3a21da0c6a54d9a\transformed\play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\541888ac177b041ed099788dfb9a3ea1\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\6c190dda822614efe58d173b4089902b\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c5b6c2cd0bd176fe7a6535b179207dde\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\fe2bc3abca3f48d135a5108959228bc5\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\jlobb\.gradle\caches\transforms-3\a77ffe780dcd233a487b3e0aae758371\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a625867f3e7eaaa972955be424172fff\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:17:1-67:12
 MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a4fa9e50c8ab3a10354767409c4f3f83\transformed\play-services-ads-base-21.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2c7b434742bf4b63c36a65680a8833e8\transformed\user-messaging-platform-2.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\19ad2cbffe88ca0ebf328370feb558f7\transformed\play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\c8b2b54328b3350df1ee8d2ef62fac03\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\505aef4699cbca2afa231d7cc84e6460\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\0d28944a0c59af81cfd9ffaebe1e9807\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
@@ -75,6 +90,10 @@ MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\jlobb\.gradle\caches
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\1b5cddb4ccc04d43e35a02d3235cf3aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2df860f2476076e30ba60dfbf4b61528\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\d8613e9e2bc76e297e5817e32b717ea2\transformed\firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2d8975a9715d1abd0f6e14cc167aac86\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\ac7d923b8a222457e57bd6bc7d793d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\ebbdffa7cbfb12810026462f2ca88601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\cf475d99a160256f61e090cd6e3c748b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\5cb06f8f56b435bdf346c6944bf61fdf\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -89,22 +108,22 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\jlobb\.gradle\caches\transform
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\bf23d87dfd033427a05d7a5b97b2f9e5\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\fcada2ed45df2528ee6bd414f8d9bb80\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\jlobb\.gradle\caches\transforms-3\619b41992fc788e508fba410712a0701\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
 	package
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-71:12
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:1-79:12
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:2:11-69
@@ -114,14 +133,34 @@ MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\ca
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:7:22-74
 application
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:7:5-69:19
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:9:5-77:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\dc9ee8ab85c09aca8391b99fc44981d2\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\dc9ee8ab85c09aca8391b99fc44981d2\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\jlobb\.gradle\caches\transforms-3\55d37c11180d9797748c4697b03a14c7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -130,28 +169,50 @@ MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\ca
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:30:5-59:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\d626a25d79fd38524305acd615926699\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\d626a25d79fd38524305acd615926699\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a3b2e6ff17e6e52c337a632b0eb99037\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a3b2e6ff17e6e52c337a632b0eb99037\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\jlobb\.gradle\caches\transforms-3\671d5f326faf41762b6720fb62d21902\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\jlobb\.gradle\caches\transforms-3\671d5f326faf41762b6720fb62d21902\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\29b62000866f06ad37edd4b93079e8e4\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\29b62000866f06ad37edd4b93079e8e4\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\553f7003e3311ca5c3a21da0c6a54d9a\transformed\play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\553f7003e3311ca5c3a21da0c6a54d9a\transformed\play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\541888ac177b041ed099788dfb9a3ea1\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\541888ac177b041ed099788dfb9a3ea1\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c5b6c2cd0bd176fe7a6535b179207dde\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c5b6c2cd0bd176fe7a6535b179207dde\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\fe2bc3abca3f48d135a5108959228bc5\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\fe2bc3abca3f48d135a5108959228bc5\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\jlobb\.gradle\caches\transforms-3\a77ffe780dcd233a487b3e0aae758371\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\jlobb\.gradle\caches\transforms-3\a77ffe780dcd233a487b3e0aae758371\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a625867f3e7eaaa972955be424172fff\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a625867f3e7eaaa972955be424172fff\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:46:5-65:19
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:46:5-65:19
 MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a4fa9e50c8ab3a10354767409c4f3f83\transformed\play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a4fa9e50c8ab3a10354767409c4f3f83\transformed\play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\19ad2cbffe88ca0ebf328370feb558f7\transformed\play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\19ad2cbffe88ca0ebf328370feb558f7\transformed\play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\c8b2b54328b3350df1ee8d2ef62fac03\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\c8b2b54328b3350df1ee8d2ef62fac03\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\c40b0f2a230f0e5b58b514587ade0913\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
@@ -164,6 +225,10 @@ MERGED from [androidx.core:core:1.9.0] C:\Users\jlobb\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.9.0] C:\Users\jlobb\.gradle\caches\transforms-3\6d56ac10bb0e5fd4bd7e3b5afe1f4cd9\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jlobb\.gradle\caches\transforms-3\b8f69bff745ed7c37f08d35a224274fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jlobb\.gradle\caches\transforms-3\b8f69bff745ed7c37f08d35a224274fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:25:5-39:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\ebbdffa7cbfb12810026462f2ca88601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\ebbdffa7cbfb12810026462f2ca88601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\cf475d99a160256f61e090cd6e3c748b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
@@ -173,125 +238,141 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\jlobb\.gradle\caches\tra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\jlobb\.gradle\caches\transforms-3\6d56ac10bb0e5fd4bd7e3b5afe1f4cd9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:12:9-54
 	tools:targetApi
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:14:9-52
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:16:9-52
 	android:dataExtractionRules
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:9:9-65
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.example.hangmannewgame.NameInput
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:16:9-18:40
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:17:13-38
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:19:13-38
 activity#com.example.hangmannewgame.MainActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:19:9-22:66
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:21:9-24:66
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:23:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:22:13-63
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:24:13-63
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:22:13-41
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:24:9-26:70
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:26:9-28:70
 	android:value
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:26:13-67
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:28:13-67
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:25:13-69
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:27:13-69
 activity#com.example.hangmannewgame.RewardActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:28:9-35:20
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:30:9-37:20
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:32:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:31:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:33:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:29:13-43
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:31:13-43
 meta-data#android.app.lib_name
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:32:13-34:36
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:34:13-36:36
 	android:value
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:34:17-33
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:36:17-33
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:33:17-52
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:35:17-52
 activity#com.example.hangmannewgame.RegisterActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:36:9-39:71
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:38:9-41:71
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:40:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:39:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:41:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:37:13-45
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:39:13-45
 activity#com.example.hangmannewgame.RankingActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:40:9-43:71
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:42:9-45:71
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:42:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:44:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:43:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:45:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:43:13-44
 activity#com.example.hangmannewgame.GameActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:44:9-47:71
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:46:9-49:71
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:46:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:48:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:47:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:49:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:45:13-41
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:47:13-41
 activity#com.example.hangmannewgame.OptionsActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:48:9-51:66
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:50:9-53:66
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:50:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:52:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:51:13-63
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:53:13-63
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:49:13-44
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:51:13-44
 activity#com.example.hangmannewgame.LoginActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:52:9-55:71
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:54:9-57:71
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:56:13-37
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:55:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:57:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:53:13-42
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:55:13-42
 activity#com.example.hangmannewgame.SplashScreenActivity
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:56:9-66:20
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:58:9-68:20
 	android:label
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:59:13-45
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:61:13-45
 	android:exported
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:58:13-36
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:60:13-36
 	android:theme
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:60:13-68
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:62:13-68
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:57:13-49
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:59:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:61:13-65:29
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:62:17-69
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:62:25-66
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:64:17-77
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:64:27-74
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:66:27-74
 service#com.example.hangmannewgame.services.BackgroundSoundService
-ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:68:9-67
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:70:9-67
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:68:18-65
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:70:18-65
+service#com.example.hangmannewgame.MyFirebaseMessagingService
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:9-76:19
+	android:exported
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:18-60
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:73:13-75:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:74:17-85
+	android:name
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:74:25-75
 uses-sdk
 INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\jlobb\.gradle\caches\transforms-3\b99463d9b9be6c786fe382e60017585f\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\jlobb\.gradle\caches\transforms-3\b99463d9b9be6c786fe382e60017585f\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\89c1bc485a05391d0059062aae54d849\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\89c1bc485a05391d0059062aae54d849\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\57b7a79ab71d0b0fee6d77619f1094c8\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
@@ -314,6 +395,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jlobb\.gradle\caches
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\99fc365afdfd077ef45e98dd4c5808a2\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\925d223041e7b8de66f5f3f376bb7cf0\transformed\play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
 MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\925d223041e7b8de66f5f3f376bb7cf0\transformed\play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\jlobb\.gradle\caches\transforms-3\0e0c241f61db776ebb332e5f12dc2983\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
@@ -324,6 +407,14 @@ MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\jlobb\.g
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a3b2e6ff17e6e52c337a632b0eb99037\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\jlobb\.gradle\caches\transforms-3\671d5f326faf41762b6720fb62d21902\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\jlobb\.gradle\caches\transforms-3\671d5f326faf41762b6720fb62d21902\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\29b62000866f06ad37edd4b93079e8e4\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\29b62000866f06ad37edd4b93079e8e4\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\03de9e368ef871cdd5a075e11db2e35c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
@@ -332,8 +423,24 @@ MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\jlobb\
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\553f7003e3311ca5c3a21da0c6a54d9a\transformed\play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\541888ac177b041ed099788dfb9a3ea1\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\541888ac177b041ed099788dfb9a3ea1\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\6c190dda822614efe58d173b4089902b\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\6c190dda822614efe58d173b4089902b\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c5b6c2cd0bd176fe7a6535b179207dde\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c5b6c2cd0bd176fe7a6535b179207dde\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\fe2bc3abca3f48d135a5108959228bc5\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\fe2bc3abca3f48d135a5108959228bc5\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\jlobb\.gradle\caches\transforms-3\a77ffe780dcd233a487b3e0aae758371\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\jlobb\.gradle\caches\transforms-3\a77ffe780dcd233a487b3e0aae758371\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a625867f3e7eaaa972955be424172fff\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a625867f3e7eaaa972955be424172fff\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\a4fa9e50c8ab3a10354767409c4f3f83\transformed\play-services-ads-base-21.0.0\AndroidManifest.xml:5:5-44
@@ -342,10 +449,10 @@ MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\jlob
 MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2c7b434742bf4b63c36a65680a8833e8\transformed\user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\19ad2cbffe88ca0ebf328370feb558f7\transformed\play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\19ad2cbffe88ca0ebf328370feb558f7\transformed\play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\c8b2b54328b3350df1ee8d2ef62fac03\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\c8b2b54328b3350df1ee8d2ef62fac03\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\jlobb\.gradle\caches\transforms-3\505aef4699cbca2afa231d7cc84e6460\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
@@ -432,6 +539,14 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2df860f2476076e30ba60dfbf4b61528\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\d8613e9e2bc76e297e5817e32b717ea2\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\d8613e9e2bc76e297e5817e32b717ea2\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2d8975a9715d1abd0f6e14cc167aac86\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\2d8975a9715d1abd0f6e14cc167aac86\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\ac7d923b8a222457e57bd6bc7d793d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\ac7d923b8a222457e57bd6bc7d793d9d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\ebbdffa7cbfb12810026462f2ca88601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\ebbdffa7cbfb12810026462f2ca88601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jlobb\.gradle\caches\transforms-3\cf475d99a160256f61e090cd6e3c748b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
@@ -472,16 +587,70 @@ INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManN
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\eed5fc1996d21f9cc93c97c2445b68da\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\0df4d7f52e0db492a0b46a678c81db49\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
 activity#com.google.firebase.auth.internal.GenericIdpActivity
@@ -532,20 +701,6 @@ ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\cac
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
 ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
-MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
 ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\597e8159894a6201e19d8ec2c6407cd5\transformed\firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
 	android:value
@@ -558,6 +713,86 @@ ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle
 		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:34:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\jlobb\.gradle\caches\transforms-3\1f13af0abe60a6fd622e767af1b3495d\transformed\firebase-database-20.0.4\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\13d10801a137df5a7e683eae22d44559\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] C:\Users\jlobb\.gradle\caches\transforms-3\98243079bd33972bb29a955f0302e542\transformed\firebase-messaging-23.0.3\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\7c8ed07f8655c920205b4c1490fbf67b\transformed\firebase-datatransport-18.1.2\AndroidManifest.xml:29:17-115
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\8bdfb2817ce3b64c33c5a998d0eb1289\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\33c02e713489d1deaf0ef172e690c8f4\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\c519ef0b6762d02bfbad3ebba50ebdba\transformed\firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\26ee693dce0938adef5e95265b259c8f\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
 	android:authorities
@@ -578,14 +813,38 @@ ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gr
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jlobb\.gradle\caches\transforms-3\05aab4befd2d8ac49ed93db4f97d69d7\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\66b2f3cdb27aa29371357069aefca254\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\087095ff9666092b1cf4698596d6fd97\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:25:22-76
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\jlobb\.gradle\caches\transforms-3\aaab89ec715e33fcbf5a8744bceeebbc\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
 queries
 ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:28:5-44:15
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
@@ -624,12 +883,6 @@ ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb
 		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:64:13-37
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\jlobb\.gradle\caches\transforms-3\566175569a8ec2ebe64356ee4f65051b\transformed\play-services-ads-lite-21.0.0\AndroidManifest.xml:62:13-64
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
-MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
-MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\jlobb\.gradle\caches\transforms-3\d04e4ae02c23a36e61ba806d5b807677\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\jlobb\.gradle\caches\transforms-3\1db74b180f23b6ccc2bb9dbb330ef7f3\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:22-65
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\jlobb\.gradle\caches\transforms-3\d1f46ff4e1d542268509860976dbdfd0\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
@@ -908,6 +1161,34 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jlobb\.gradle\c
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jlobb\.gradle\caches\transforms-3\b8f69bff745ed7c37f08d35a224274fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jlobb\.gradle\caches\transforms-3\b8f69bff745ed7c37f08d35a224274fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\2d3c6fbf454163b74f26bad1d64ecd4c\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\jlobb\.gradle\caches\transforms-3\a8fb91fa5492c96960db78243b219f5d\transformed\transport-runtime-3.1.3\AndroidManifest.xml:33:13-132
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\jlobb\.gradle\caches\transforms-3\571ffa546eacc2c1696d2843eab53121\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported

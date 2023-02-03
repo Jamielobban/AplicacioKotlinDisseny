@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.hangmannewgame.app-mergeDebugResources-52:/values-km/values-km.xml",
+            "outputFile": "com.example.hangmannewgame.app-mergeDebugResources-53:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jlobb\\.gradle\\caches\\transforms-3\\05aab4befd2d8ac49ed93db4f97d69d7\\transformed\\play-services-base-18.0.1\\res\\values-km\\values.xml",
