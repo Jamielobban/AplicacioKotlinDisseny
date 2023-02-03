@@ -14,6 +14,7 @@ class RewardActivity : AppCompatActivity() {
 
     private var rewardedInterstitialAd : RewardedInterstitialAd? = null
 
+    // No funciona, deixa la pantalla en blanc
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_reward)
@@ -22,9 +23,6 @@ class RewardActivity : AppCompatActivity() {
             loadAd()
         }
     }
-
-
-
     private fun loadAd() {
         RewardedInterstitialAd.load(this, "ca-app-pub-3940256099942544/5354046379",
             AdRequest.Builder().build(), object : RewardedInterstitialAdLoadCallback() {

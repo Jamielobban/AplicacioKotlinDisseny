@@ -11,6 +11,7 @@
         android:id="@+id/imageView10"
         android:layout_width="465dp"
         android:layout_height="827dp"
+        android:contentDescription="@string/background"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.314"

@@ -107,7 +107,7 @@
 
         <service android:name="com.example.hangmannewgame.services.BackgroundSoundService" />
         <service
-            android:name="com.example.hangmannewgame.MyFirebaseMessagingService"
+            android:name="com.example.hangmannewgame.services.MyFirebaseMessagingService"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

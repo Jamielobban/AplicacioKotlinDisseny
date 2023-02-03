@@ -17,18 +17,15 @@ class RegisterActivity : AppCompatActivity() {
     private lateinit var binding: ActivityRegisterBinding
     private lateinit var firebaseAuth: FirebaseAuth
 
-
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_register)
-
+        // Get user
         firebaseAuth = FirebaseAuth.getInstance()
 
         binding = ActivityRegisterBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        // Back button to login
         binding.backButton2.setOnClickListener(){
             val intent = Intent(this@RegisterActivity, LoginActivity::class.java)
             startActivity(intent)
@@ -47,6 +44,7 @@ class RegisterActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "4")
             startService(intentS)
 
+            // Null checks
             if(TextUtils.isEmpty(email)){
                 Toast.makeText(this@RegisterActivity,"Enter email", Toast.LENGTH_SHORT).show()
             }
@@ -76,12 +74,13 @@ class RegisterActivity : AppCompatActivity() {
                     }
                 }
             else{
+                // Null checks
                 Toast.makeText(this@RegisterActivity, "password or email cant be empty",
                     Toast.LENGTH_SHORT).show()
             }
 
         })
-
+        // Email correct check
         binding.emailInput.setOnFocusChangeListener { _, hasFocus ->
             if(!hasFocus)
             {

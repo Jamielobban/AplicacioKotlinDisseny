@@ -19,21 +19,21 @@ class RankingActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        setContentView(R.layout.activity_ranking)
-
         binding = ActivityRankingBinding.inflate(layoutInflater)
-
         setContentView(binding.root)
 
-
+        // Binds recycler view
         userRecyclerView = binding.rankingList
-        userRecyclerView.layoutManager = LinearLayoutManager(this)
-        userRecyclerView.setHasFixedSize(true)
 
+        // Linear layout
+        userRecyclerView.layoutManager = LinearLayoutManager(this)
+
+        //SET SIZE
+        userRecyclerView.setHasFixedSize(true)
+        // Set array of what its going to be full of
         userArrayList = arrayListOf<UserInfo>()
         gerUserData()
-
+        //Back button
         binding.backToHome.setOnClickListener{
             val intent = Intent(this@RankingActivity, MainActivity::class.java)
             startActivity(intent)
@@ -47,15 +47,18 @@ class RankingActivity : AppCompatActivity() {
     }
 
     private fun gerUserData() {
-
+        // Sets the database direction
         dbref = FirebaseDatabase.getInstance("https://hangmannewgame-default-rtdb.europe-west1.firebasedatabase.app")
             .getReference("UserInfo")
+
+        // Makes an object listener for each node and stores its info in user
         dbref.addValueEventListener(object : ValueEventListener{
             override fun onDataChange(snapshot: DataSnapshot) {
                 if(snapshot.exists()){
                     for(userSnapshot in snapshot.children){
 
                         val user = userSnapshot.getValue(UserInfo::class.java)
+                        // Adds the user to the array
                         userArrayList.add(user!!)
                     }
                     userRecyclerView.adapter = RankingAdapter(userArrayList)

@@ -351,12 +351,12 @@ service#com.example.hangmannewgame.services.BackgroundSoundService
 ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:70:9-67
 	android:name
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:70:18-65
-service#com.example.hangmannewgame.MyFirebaseMessagingService
+service#com.example.hangmannewgame.services.MyFirebaseMessagingService
 ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:9-76:19
 	android:exported
 		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:72:13-37
 	android:name
-		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:18-60
+		ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:18-69
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
 ADDED from C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:73:13-75:29
 action#com.google.firebase.MESSAGING_EVENT

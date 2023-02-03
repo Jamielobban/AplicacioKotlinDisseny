@@ -3,15 +3,17 @@ package com.example.hangmannewgame.services
 import android.content.Context
 
 class Prefs(val context: Context) {
-
+    // Name of variable in prefs
     val SHARED_NAME = "MyDtb"
     val SHARED_USER_NAME = "username"
     val SHARED_NOTIS = "notis"
     val SHARED_AUDIO = "music"
     val SHARED_SCORE = "score"
 
+    // Declare and name
     val storage = context.getSharedPreferences(SHARED_NAME, 0)
 
+    // Getters and setters
     fun saveName(name:String){
         storage.edit().putString(SHARED_USER_NAME,name).apply()
     }

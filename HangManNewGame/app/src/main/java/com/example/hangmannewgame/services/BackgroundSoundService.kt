@@ -11,8 +11,6 @@ import com.example.hangmannewgame.R
 
 class BackgroundSoundService : Service(){
 
-    //private lateinit var mMediaPlayer: MediaPlayer
-    //private var loopAudio: Boolean = false;
 
     private var allGameMediaPlayers : MutableList<MediaPlayer> = mutableListOf<MediaPlayer>()
     private var indexPlaying = -1;

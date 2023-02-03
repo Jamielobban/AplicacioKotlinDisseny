@@ -26,7 +26,7 @@
             android:layout_marginLeft="10dp"
             android:fontFamily="@font/cowboy"
             android:gravity="center"
-            android:text="Username"
+            android:text="@string/name"
             android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="20sp" />
@@ -41,7 +41,7 @@
             android:layout_weight="1"
             android:backgroundTint="#00FFFFFF"
             android:fontFamily="@font/cowboy"
-            android:text="Score"
+            android:text="@string/scoretext"
             android:textAlignment="center"
             android:textColor="#5E5D5D"
             android:textSize="20sp"

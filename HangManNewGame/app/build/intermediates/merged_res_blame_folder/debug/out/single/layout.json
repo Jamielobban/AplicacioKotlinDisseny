@@ -1,19 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_name_input.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_name_input.xml"
+    },
+    {
         "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_game.xml",
         "source": "com.example.hangmannewgame.app-main-57:/layout/activity_game.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_splash_screen.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_game.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_reward.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_reward.xml"
-    },
-    {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_options.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_options.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_login.xml"
     },
     {
         "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_ranking.xml",
@@ -24,19 +28,31 @@
         "source": "com.example.hangmannewgame.app-main-57:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_main.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_main.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_reward.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_reward.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/user_item.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/user_item.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_register.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_register.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_options.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_options.xml"
     },
     {
-        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/activity_name_input.xml",
-        "source": "com.example.hangmannewgame.app-main-57:/layout/activity_name_input.xml"
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\user_item.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.hangmannewgame.app-mergeDebugResources-54:/layout/notification.xml",
+        "source": "com.example.hangmannewgame.app-main-57:/layout/notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-mergeDebugResources-54:\\layout\\activity_ranking.xml",
+        "source": "C:\\Users\\jlobb\\.gradle\\daemon\\7.5\\com.example.hangmannewgame.app-main-57:\\layout\\activity_ranking.xml"
     }
 ]

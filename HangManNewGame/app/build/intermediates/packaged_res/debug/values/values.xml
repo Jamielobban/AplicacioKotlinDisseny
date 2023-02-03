@@ -30,22 +30,40 @@
     <dimen name="fab_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
     <string name="app_name">HangManNewGame</string>
+    <string name="content1">content1</string>
+    <string name="content2">content2</string>
+    <string name="content3">content3</string>
     <string name="default_web_client_id" translatable="false">688425797387-pc8074jc5u2po359l4on69bkkrped1c1.apps.googleusercontent.com</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="email">email</string>
     <string name="first_fragment_label">First Fragment</string>
     <string name="gcm_defaultSenderId" translatable="false">688425797387</string>
     <string name="google_api_key" translatable="false">AIzaSyBM8CfckqofIRwjhs2rAW6z7SSqBHfuHgg</string>
     <string name="google_app_id" translatable="false">1:688425797387:android:3462d882305d130850440e</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM8CfckqofIRwjhs2rAW6z7SSqBHfuHgg</string>
     <string name="google_storage_bucket" translatable="false">hangmannewgame.appspot.com</string>
+    <string name="guess">GUESS</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login">login</string>
     <string name="next">Next</string>
+    <string name="password">password</string>
+    <string name="pausebutton">PAUSE</string>
+    <string name="pausetext">PAUSE</string>
+    <string name="play">PLAY</string>
+    <string name="playerguess">player</string>
     <string name="previous">Previous</string>
     <string name="project_id" translatable="false">hangmannewgame</string>
+    <string name="random">random</string>
+    <string name="register">register</string>
+    <string name="scorebutton">SCORE</string>
+    <string name="scoretext">SCORE</string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="timer">TIME LEFT:</string>
+    <string name="trybutton">TRY</string>
+    <string name="used_letters">USED LETTERS</string>
     <style name="SplashTheme" parent="">
 
         <item name="android:windowBackground"> @drawable/splaschreen</item>

@@ -20,7 +20,7 @@ import java.util.*
 
 class GameActivity : AppCompatActivity() {
 
-    // When kill reaches 10 - player loses.
+    // Variables
     private var kill = 0
     private var secretWord = ""
     private var secretDisplay = ""
@@ -44,6 +44,7 @@ class GameActivity : AppCompatActivity() {
         timerShow = binding.timer
         letterUsed = binding.letterUsed
 
+        // Pause button
         binding.pauseButton.setOnClickListener {
             timer.cancel()
             binding.playButton2.visibility = View.VISIBLE
@@ -55,6 +56,8 @@ class GameActivity : AppCompatActivity() {
 
         }
 
+
+        // Play button becomes visible once pause is hit
         binding.playButton2.setOnClickListener {
             binding.pauseButton.visibility = View.VISIBLE
             binding.playButton2.visibility = View.INVISIBLE
@@ -65,50 +68,68 @@ class GameActivity : AppCompatActivity() {
             startService(intentS);
         }
 
+        // Declare secret word, words can be found in resources/values/dimens/strings.xml
         val extras = intent.extras
         secretWord = resources.getStringArray(R.array.guessWords)[Random().nextInt(resources.getStringArray(R.array.guessWords).size-0)+0]
         prepGame()
     }
 
     fun guessTry(click: View) {
+        // Click on the try button
         if (click === binding.tryButton) {
+
+            // Grab player letter guess
             val pGuess = binding.playerGuess1.text.toString().toLowerCase()
 
             binding.playerGuess1.text = null
+
+            // Null check
             if(pGuess == null || pGuess == ""){
                     Toast.makeText(getBaseContext(), "Please select a letter", Toast.LENGTH_SHORT).show();
                 return
             }
+
+            // Return if player has already said that letter
             if(lettersUsed.contains((pGuess))){
                 return
             }
             // Player asks for a letter
             if (pGuess.length < 2) {
                 lettersUsed.add(pGuess)
+
+                // If letter is correct
                 if (pGuess in secretWord.toLowerCase()) {
                     correctGuesses.add(pGuess)
+
+                    // Makes letter appear
                     refactorSecret()
 
                     Toast.makeText(applicationContext,"Good guess!",Toast.LENGTH_SHORT).show()
 
+                    // Play correct guess sound
                     val intentS = Intent(this@GameActivity, BackgroundSoundService::class.java);
                     intentS.putExtra("audioIndex", "2");
                     startService(intentS);
 
+                    // Score
                     letterUsed.text = "Letters used: ${lettersUsed}"
                     score += 50
                     if(score > 0){
                         binding.scoreText.text = "Score ${score}"
                     }
+                    // Check if the game has been won
                     checkWin()
                     return
                 }
-                Toast.makeText(applicationContext,"Bad guess!",Toast.LENGTH_SHORT).show()
 
+                // Guess is incorrect
+                Toast.makeText(applicationContext,"Bad guess!",Toast.LENGTH_SHORT).show()
+                // Play incorrect guess sound
                 val intentS = Intent(this@GameActivity, BackgroundSoundService::class.java);
                 intentS.putExtra("audioIndex", "3");
                 startService(intentS);
 
+                // Score declaration
                 score -=30
                 if(score < 0){
                     score = 0
@@ -120,6 +141,7 @@ class GameActivity : AppCompatActivity() {
                 letterUsed.text = "Letters used: ${lettersUsed}"
             }
             else{
+                // If more that one letter is guessed
                 Toast.makeText(applicationContext,"One letter only!",Toast.LENGTH_SHORT).show()
 
                 return
@@ -169,6 +191,7 @@ class GameActivity : AppCompatActivity() {
 
     // If a char from secretWord isn't in guess chars then player didn't guess everything yet
     private fun checkWin() {
+        // Checks all letters guessed
         var everythingGuessed = true
         secretWord.toLowerCase().forEach { c ->
             if (!correctGuesses.contains(c.toString()))
@@ -210,11 +233,13 @@ class GameActivity : AppCompatActivity() {
 
         }
         builder.setNegativeButton("No"){ _, _ ->
-
+            // Back to main menu and set music
             val intentS = Intent(this@GameActivity, BackgroundSoundService::class.java);
             intentS.putExtra("audioIndex", "0");
             startService(intentS);
 
+
+            // Save score
             val name = prefs.getName()
             val score = score
             database = FirebaseDatabase.getInstance("https://hangmannewgame-default-rtdb.europe-west1.firebasedatabase.app").getReference("UserInfo")
@@ -229,6 +254,8 @@ class GameActivity : AppCompatActivity() {
             finish()
 
         }
+
+        // Alert dialog builder
         val dialog: AlertDialog = builder.create()
         dialog.setCancelable(false);
         dialog.setCanceledOnTouchOutside(false);
@@ -238,6 +265,8 @@ class GameActivity : AppCompatActivity() {
     // Reset & Create New Game
     private fun prepGame(){
         //hangmanDrawing.setImageResource(R.drawable.hangman0)
+
+        // Reset for start or continue game
         binding.hangmanDrawing.setImageResource(R.drawable.hangman0)
         kill = 0
         secretDisplay = ""

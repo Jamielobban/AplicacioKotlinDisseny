@@ -202,8 +202,8 @@
 108-->C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:70:18-65
 109        <service
 109-->C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:9-76:19
-110            android:name="com.example.hangmannewgame.MyFirebaseMessagingService"
-110-->C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:18-60
+110            android:name="com.example.hangmannewgame.services.MyFirebaseMessagingService"
+110-->C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:71:18-69
 111            android:exported="false" >
 111-->C:\Users\jlobb\Desktop\EntregaCasi\AplicacioKotlinDisseny\HangManNewGame\app\src\main\AndroidManifest.xml:72:13-37
 112            <intent-filter>

@@ -7,11 +7,6 @@ import android.widget.TextView
 import android.view.LayoutInflater
 
 class RankingAdapter(private val userList : ArrayList<UserInfo>) : RecyclerView.Adapter<RankingAdapter.MyViewHolder>(){
-
-
-
-
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
 
         val itemView = LayoutInflater.from(parent.context).inflate(R.layout.user_item,parent,false )

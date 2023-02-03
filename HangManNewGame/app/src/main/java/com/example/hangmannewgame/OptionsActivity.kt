@@ -18,6 +18,8 @@ class OptionsActivity : AppCompatActivity() {
         binding = ActivityOptionsBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+
+        // Goes back to main menu
         binding.backButton.setOnClickListener {
             val intent = Intent(this@OptionsActivity, MainActivity::class.java)
             startActivity(intent)
@@ -27,6 +29,7 @@ class OptionsActivity : AppCompatActivity() {
             startService(intentS)
         }
 
+        // If user is logged in then it signs out
         binding.logoutButton.setOnClickListener{
             FirebaseAuth.getInstance().signOut()
             val intent = Intent(this@OptionsActivity, MainActivity::class.java)
@@ -42,6 +45,7 @@ class OptionsActivity : AppCompatActivity() {
             //startActivity(intent)
         //}
 
+        // Makes sound turn off and changes the layout
         binding.soundTickBox.setOnClickListener(){
 
             binding.soundTickBox.visibility = View.INVISIBLE
@@ -50,7 +54,7 @@ class OptionsActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "5");
             startService(intentS);
         }
-
+        // Makes sound turn back on and changes the layout
         binding.soundTickBox2.setOnClickListener(){
 
             binding.soundTickBox.visibility = View.VISIBLE
@@ -72,7 +76,7 @@ class OptionsActivity : AppCompatActivity() {
         }
 
 
-
+        // Login button
         binding.loginOptionsButton.setOnClickListener{
             val intent = Intent(this@OptionsActivity, LoginActivity::class.java)
             startActivity(intent)
@@ -81,7 +85,7 @@ class OptionsActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "4")
             startService(intentS)
         }
-
+        // Register button
         binding.registerOptionsButton.setOnClickListener{
             val intent = Intent(this@OptionsActivity, RegisterActivity::class.java)
             startActivity(intent)
@@ -90,9 +94,6 @@ class OptionsActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "4")
             startService(intentS)
         }
-
-        //binding.musicSlider?.progress = 50
-
     }
 
 }

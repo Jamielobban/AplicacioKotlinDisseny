@@ -29,6 +29,7 @@ class LoginActivity : AppCompatActivity() {
         // Check if user is signed in (non-null) and update UI accordingly.
         val currentUser = firebaseAuth.currentUser
 
+        // Checks if user is already logged in
         if(currentUser != null){
             intent = Intent(this@LoginActivity, MainActivity::class.java)
             //Toast.makeText(this@LoginActivity,"Logged in", Toast.LENGTH_SHORT).show()
@@ -46,11 +47,7 @@ class LoginActivity : AppCompatActivity() {
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-
-
-
-
-
+        // Logged in, but if account already is logged in goes directly to MainMenu
         binding.loginButton.setOnClickListener(View.OnClickListener {
             val email = binding.emailInput.text.toString()
             val password = binding.passwordInput.text.toString()
@@ -59,6 +56,7 @@ class LoginActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "4")
             startService(intentS)
 
+            // Null checks
             if(TextUtils.isEmpty(password) && TextUtils.isEmpty(email)){
             Toast.makeText(this@LoginActivity,"Please enter a valid email and password", Toast.LENGTH_SHORT).show()
             }
@@ -69,6 +67,7 @@ class LoginActivity : AppCompatActivity() {
                 Toast.makeText(this@LoginActivity,"Enter password", Toast.LENGTH_SHORT).show()
             }
 
+            // If both fields are okay, googles documentation
             if(!TextUtils.isEmpty(email) && !TextUtils.isEmpty(password))
                 firebaseAuth.signInWithEmailAndPassword(email, password)
                     .addOnCompleteListener(this) { task ->
@@ -85,12 +84,8 @@ class LoginActivity : AppCompatActivity() {
                     }
                 }
 
-            // intent = Intent(this@LoginActivity, MainActivity::class.java)
-            //startActivity(intent)
-
-
         })
-
+        // Email error check
         binding.emailInput.setOnFocusChangeListener{_, hasFocus ->
             if(!hasFocus){
                 val email = binding.emailInput.text.toString()
@@ -100,7 +95,7 @@ class LoginActivity : AppCompatActivity() {
                     binding.emailInput.error = null
             }
         }
-
+        // If user wants to register
         binding.registerButton.setOnClickListener{
             val intent = Intent(this@LoginActivity,RegisterActivity::class.java)
             startActivity(intent)
@@ -119,7 +114,7 @@ class LoginActivity : AppCompatActivity() {
             intentS.putExtra("audioIndex", "4")
             startService(intentS)
         }
-
+        // Anonymous login works but not necessary
         //binding.anonymousLogin.setOnClickListener(){
             //firebaseAuth.signInAnonymously()
             //val intent = Intent(this@LoginActivity,MainActivity::class.java)

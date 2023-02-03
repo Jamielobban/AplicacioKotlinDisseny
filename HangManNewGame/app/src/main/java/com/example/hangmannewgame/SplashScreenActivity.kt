@@ -13,6 +13,8 @@ import com.example.hangmannewgame.services.Prefs
 
 class SplashScreenActivity : AppCompatActivity() {
 
+
+    // Declare the companion object of prefs
     companion object{
         lateinit var prefs: Prefs
     }
@@ -24,25 +26,23 @@ class SplashScreenActivity : AppCompatActivity() {
         binding = ActivitySplashScreenBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        // Start audio
         val intentS = Intent(this@SplashScreenActivity, BackgroundSoundService::class.java)
         intentS.putExtra("audioIndex", "0")
         startService(intentS)
 
-
+        // Start noti service
         val intent2 = Intent(this@SplashScreenActivity, MyFirebaseMessagingService::class.java)
         startService(intent2)
-        //startService(this@SplashScreenActivity,MyFirebaseMessagingService::class.java);
 
-        //binding.welcomeMessage.text = "Hello"
-
+        // Start playerprefs
         prefs = Prefs(applicationContext)
+        // Null check
         if(prefs.getName() == "" || prefs.getName() == null){
             prefs.saveName("Guest")
         }
-        //startService(Intent(this@SplashScreenActivity, BackgroundSoundService::class.java))
 
-        //supportActionBar?.hide()
-
+        // Timer just to get to next screen
         val handler = Handler(Looper.getMainLooper())
         handler.postDelayed({
             val intent = Intent(this@SplashScreenActivity,MainActivity::class.java)
@@ -50,9 +50,5 @@ class SplashScreenActivity : AppCompatActivity() {
             finish()
         },3000)
 
-        //Thread.sleep(5000)
-        //val intent = Intent(this@SplashScreenActivity, MainActivity::class.java)
-        //startActivity(intent)
-        //finish()
         }
     }
